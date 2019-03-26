@@ -1,1 +1,1 @@
-You bet its a cubing site
+You bet its a cubing site :D
