@@ -1,4 +1,4 @@
-var running = false;
+var running = true;
 var interval;
 var decimal = 0;
 var sec = 0;
